@@ -1,0 +1,4 @@
+*.db
+libooppkcs11.so
+ooppkcs11child
+test
